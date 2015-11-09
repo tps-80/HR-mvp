@@ -19,26 +19,44 @@ Once the project moves into development, the press release can be used as a touc
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
+  Task Invaders
+
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
+  For the GTD (Get Things Done) crowd.  Task Invaders makes it fun to get things done.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
+  Task Invaders puts the fun into finishing tasks.  It also increases the tension as the tasks get closer to their due date.  TI lets you blast through your tasks like the classic Space Invaders arcade game, and if you don't finish a task, it will destroy your piece of mind by "invading" your free time.  
+
 ## Problem ##
   > Describe the problem your product solves.
+
+  Staying motivated while trying to get things done can be difficult.  Too many people give up on their quest to get things done.  
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
 
+  Task Invaders motivates you to finish tasks in two ways.  The tension created by the tasks constantly coming towards you motivates you to do things quickly, and the fun of blowing them up makes you want to make sure you finish them.  
+
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+
+  What good is a task manager if you never look at it?  With Task Invaders you'll want to keep coming back to your tasks.  
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
 
+  Just add your tasks and watch them start attacking your base.  It's time to start blasting through your Task list.  
+
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
+  "Blasting away a task feels so good.  It makes me want to blast through all of them."  - Marcus Peterson  
+
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+
+  Have fun getting things done with Task Invaders.  Beta-test our app on the web and sign up to find out about the full release.   
